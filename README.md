@@ -23,6 +23,8 @@ Here's why:
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
+## Getting Started
+
 
 ## Our team
 
