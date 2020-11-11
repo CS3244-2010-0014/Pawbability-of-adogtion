@@ -4,7 +4,7 @@
 
 ## Repository Content
 * [Project report]()
-* [Code]()
+* [Code](https://github.com/CS3244-2010-0014/Pawbability-of-adogtion/blob/main/CS3244-2010-0014_Decision_Trees.ipynb)
 
 ## Table of Contents
 * [About the Project](#about-the-project)
