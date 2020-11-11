@@ -42,4 +42,6 @@ Chua Xin Xuan, Luk Chi Heng,  Lim York Tee Gorden, Lim Xi Chen Terry, Tan Jie Yi
 * [Tan Yoong Kang Colin](https://github.com/ColinTan1997)
 
 ## Acknowledgements
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+
+* Dataset obtained from [Kaggle](https://www.kaggle.com/c/petfinder-adoption-prediction/data)
+
