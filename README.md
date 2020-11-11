@@ -1,6 +1,6 @@
 # Pawbability of Adogtion: Determining the adoptability of a pet
 
-![alt text](https://media.npr.org/assets/img/2013/02/06/dog_wide-e19af42dcba6ac82e35773015db5d04ef49c9beb.jpg?s=1400)
+![alt text](https://media.npr.org/assets/img/2013/02/06/dog_wide-e19af42dcba6ac82e35773015db5d04ef49c9beb.jpg?s=1400 | width=100)
 
 ## Repository Content
 * [Project report]()
