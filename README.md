@@ -1,13 +1,13 @@
-# Pawbability-of-adogtion
+# Pawbability of Adogtion: Determining the adoptability of a pet
+
+## Repository Content
+* [Project report]()
+* [Code]()
 
 ## Table of Contents
-
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Our team](#Our team)
+* [Our team](#our-team)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
@@ -23,17 +23,12 @@ to deduce the factors that can improve their adoptability.
 * [scikit-learn](https://scikit-learn.org/stable/)
 * [Keras Xception](https://keras.io/api/applications/xception/)
 * [Kaggle](https://www.kaggle.com/c/petfinder-adoption-prediction/data)
-
-
-## Getting Started
-
+* [Jupyter Notebook](https://jupyter.org/)
 
 ## Our team
-
 We are a group of pet owners and animal lovers who want to help shelter animals find their forever homes
 
 ## Contact
-Chua Xin Xuan, Luk Chi Heng,  Lim York Tee Gorden, Lim Xi Chen Terry, Tan Jie Yi, Tan Yoong Kang Colin
 * [Chua Xin Xuan](https://github.com/chuaxinxuan)
 * [Luk Chi Heng](https://github.com/AaronLuk)
 * [Lim York Tee Gorden](https://github.com/gordengorden)
@@ -42,6 +37,5 @@ Chua Xin Xuan, Luk Chi Heng,  Lim York Tee Gorden, Lim Xi Chen Terry, Tan Jie Yi
 * [Tan Yoong Kang Colin](https://github.com/ColinTan1997)
 
 ## Acknowledgements
-
 * Dataset obtained from [Kaggle](https://www.kaggle.com/c/petfinder-adoption-prediction/data)
 
