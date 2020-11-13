@@ -28,7 +28,7 @@ to deduce the factors that can improve their adoptability.
 * [Jupyter Notebook](https://jupyter.org/)
 
 ## Our team
-We are a group of pet owners and animal lovers who want to help shelter animals find their forever homes
+We are a group of pet owners and animal lovers who want to help shelter animals find their forever homes.
 
 ## Contact
 * [Chua Xin Xuan](https://github.com/chuaxinxuan)
