@@ -3,7 +3,7 @@
 ![alt text](https://media.npr.org/assets/img/2013/02/06/dog_wide-e19af42dcba6ac82e35773015db5d04ef49c9beb.jpg?s=1400)
 
 ## Repository Content
-* [Project report]()
+* [Project report](https://github.com/CS3244-2010-0014/Pawbability-of-adogtion/tree/main/Report)
 * [Code](https://github.com/CS3244-2010-0014/Pawbability-of-adogtion/tree/main/Code)
 
 ## Table of Contents
